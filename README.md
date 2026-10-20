@@ -4,7 +4,7 @@
 
 Jogo 2D top-down feito em Unity: colete as almas perdidas da cidade antes que o tempo do ritual acabe, enquanto foge de tropas, guardiões e poças de corrupção.
 
-**Jogue no navegador:** _(link do itch.io)_
+**[▶ Jogue no navegador pelo itch.io](https://felipecameloss.itch.io/cidade-das-almas)**
 
 ![Combate](itchio/screenshots/03_combate.png)
 
