@@ -1,0 +1,39 @@
+# Pastas geradas pelo Unity (recriadas ao abrir o projeto)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Arquivos de IDE gerados automaticamente
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# Builds e pacotes (vão para o itch.io, não para o repositório)
+*.apk
+*.aab
+*.unitypackage
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db

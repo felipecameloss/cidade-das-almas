@@ -1,0 +1,13 @@
+# Binários do Unity e assets: nunca tentar converter ou fazer diff de texto
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
+*.ttf binary
+*.otf binary
+*.asset -text
+*.unity -text
+*.prefab -text
+*.mat -text
+*.meta -text

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 512 512">
+<defs>
+    <radialGradient id="poca" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#050c04"/><stop offset="0.7" stop-color="#173f0f"/>
+      <stop offset="1" stop-color="#3fae2a"/>
+    </radialGradient>
+    
+  <filter id="verde" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="9" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter></defs>
+
+  <g filter="url(#verde)">
+    <path fill="url(#poca)" stroke="#7dff5a" stroke-width="6" d="M256 70 C330 64 384 108 420 160 C460 220 446 300 420 352
+          C392 410 330 446 256 442 C186 440 118 412 88 350 C62 296 64 220 96 168 C130 112 186 74 256 70Z"/>
+  </g>
+  <g fill="none" stroke="#9dff7a" stroke-width="5" opacity="0.55">
+    <circle cx="256" cy="256" r="118"/>
+    <circle cx="256" cy="256" r="40"/>
+    <path d="M256 138 L358 315 L154 315Z"/>
+    <path transform="rotate(15 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(45 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(75 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(105 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(135 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(165 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(195 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(225 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(255 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(285 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(315 256 256)" d="M256 124 V108 M250 112 H262"/><path transform="rotate(345 256 256)" d="M256 124 V108 M250 112 H262"/>
+  </g>
+  <circle cx="200" cy="170" r="10" fill="#9dff7a" opacity="0.7"/>
+  <circle cx="340" cy="380" r="7" fill="#9dff7a" opacity="0.6"/>
+  <circle cx="380" cy="200" r="5" fill="#9dff7a" opacity="0.6"/>
+</svg>
