@@ -36,7 +36,7 @@ Cada alma coletada alimenta o ritual com **+3 segundos**, então cada decisão i
 - Suporte completo a teclado, mouse e controle de Xbox
 - Arte e trilha sonora originais
 
-Feito com Unity.
+Feito com Unity. Código-fonte: https://github.com/felipecameloss/cidade-das-almas
 
 *Fan game inspirado na estética de Deadlock. Sem nenhuma afiliação com a Valve Corporation. Todos os sprites, sons e músicas deste jogo são originais.*
 
@@ -54,7 +54,9 @@ Each soul feeds the ritual **+3 seconds**, so every choice matters: risk slippin
 
 **Controls:** WASD/arrows or left stick to move · Space / A to dash · J / left click / X to attack · R / Start to restart · M / B for the main menu.
 
-Made with Unity. *Fan game inspired by the look and feel of Deadlock. Not affiliated with Valve Corporation. All sprites, sounds and music are original.*
+Made with Unity. Source code: https://github.com/felipecameloss/cidade-das-almas
+
+*Fan game inspired by the look and feel of Deadlock. Not affiliated with Valve Corporation. All sprites, sounds and music are original.*
 
 ---
 
